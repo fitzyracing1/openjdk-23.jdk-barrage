@@ -1,0 +1,36 @@
+# openjdk-23.jdk
+
+> HTML shelf named openjdk-23.jdk. This wrap points back to the source.
+
+## Purpose
+Give a plain-language door to fitzyracing1/openjdk-23.jdk.
+
+## How it works (plain English)
+1. Keep the original repo as the place for files.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source.
+
+## Key ideas
+- openjdk-23.jdk (the named shelf)
+- HTML source
+
+## The actual code
+```
+# source: fitzyracing1/openjdk-23.jdk
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/openjdk-23.jdk”
+
+## Decisions the program makes
+- If a reader needs the files → send them to the source
+
+## What a person would notice
+A named wrap on an OpenJDK-named door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
